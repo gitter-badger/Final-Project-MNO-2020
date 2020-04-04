@@ -1,2 +1,19 @@
-# Final-Project-MNO-2020
-Repositorio para el proyecto final de la materia de Métodos Numéricos y Optimización
+# Proyecto Final de la materia de Métodos Numéricos y Optimización de la Maestría en Ciencia de Datos
+
+## Ejercicios para cómputo en paralelo usando multiprocessing, dask, parallel, openmp
+
+**Profesor:** Erick Palacios Moreno
+
+**Integrantes del equipo**
+
+| # | Alumno                           | Clave única |
+|---|-----------------------------------|-------------|
+| 1 | Angel Rafael Ortega Ramírez | 123972      |
+| 2 | Elizabeth         | CU      |
+| 3 | Karla Alfaro Pizaña             | CU      |
+| 4 | Maggie | 123972      |
+| 5 | Guillermo         | CU      |
+| 6 | Dorely             | CU      |
+
+
+
