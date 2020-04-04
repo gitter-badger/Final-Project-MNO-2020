@@ -11,7 +11,7 @@
 | 1 | Angel Rafael Ortega Ramírez | 123972      |
 | 2 | Elizabeth         | CU      |
 | 3 | Karla Alfaro Pizaña             | CU      |
-| 4 | Maggie | 123972      |
+| 4 | Maggie | CU      |
 | 5 | Guillermo         | CU      |
 | 6 | Dorely             | CU      |
 
