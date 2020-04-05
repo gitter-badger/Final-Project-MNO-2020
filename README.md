@@ -1,6 +1,6 @@
 # Proyecto Final de la materia de Métodos Numéricos y Optimización de la Maestría en Ciencia de Datos
 
-## Ejercicios para cómputo en paralelo usando multiprocessing, dask, parallel, openmp
+## 
 
 **Profesor:** Erick Palacios Moreno
 
