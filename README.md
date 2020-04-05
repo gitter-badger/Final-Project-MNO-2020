@@ -9,7 +9,7 @@
 | # | Alumno                           | Clave única |
 |---|-----------------------------------|-------------|
 | 1 | Angel Rafael Ortega Ramírez | 123972      |
-| 2 | Elizabeth         | CU      |
+| 2 | Elizabeth Rodriguez         | CU      |
 | 3 | Karla Alfaro Pizaña             | CU      |
 | 4 | Maggie | CU      |
 | 5 | Guillermo         | CU      |
