@@ -1,7 +1,5 @@
 # Proyecto Final de la materia de Métodos Numéricos y Optimización de la Maestría en Ciencia de Datos
 
-## 
-
 **Profesor:** Erick Palacios Moreno
 
 **Integrantes del equipo**
